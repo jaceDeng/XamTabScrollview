@@ -11,7 +11,7 @@ namespace XamTabScrollview
 	{
 		public MainPage()
 		{
-			InitializeComponent();
+			InitializeComponent(); 
             NavigationPage.SetHasNavigationBar(this, false);
         }
 	}
