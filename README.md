@@ -5,3 +5,4 @@
 具体的可以看下代码
 ## 下面看看实现效果
  
+![IMG 演示](https://raw.githubusercontent.com/jsonsugar/XamTabScrollview/master/GIF.gif)
