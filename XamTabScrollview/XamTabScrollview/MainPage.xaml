@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c:TopTabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamTabScrollview"
+               xmlns:c="clr-namespace:XamTabScrollview"
+             x:Class="XamTabScrollview.MainPage"
+                 BarBackgroundColor="#0082c8"   BarTextColor="#B3DAEF" TabIndicator="#debc93">
+    <TabbedPage.Children>
+        <Page Title="新闻" BackgroundColor="Yellow" ></Page>
+        <Page Title="电话" BackgroundColor="Red" ></Page>
+        <Page Title="视频" BackgroundColor="YellowGreen" ></Page>
+        <Page Title="高校"  BackgroundColor="Wheat"></Page>
+    </TabbedPage.Children> 
+</c:TopTabbedPage>
